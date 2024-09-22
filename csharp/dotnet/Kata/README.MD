@@ -1,4 +1,6 @@
 # Manhattan Distance
+	Software-Design | TDD | Starter | Pair-Programming | SOLID Principles
+
 	Manhattan distance is the distance between two points in a grid (like the grid-like street geography of the New York borough of Manhattan) 
 	calculated by only taking a vertical and/or horizontal path.
 
@@ -18,7 +20,8 @@
 		NUnit
 
 # Banking
-	
+	Mocks | Outside-In | Software-Design | SOLID Principles | Experienced
+
 	Your bank is tired of its mainframe COBOL accounting software and they hired both of you for a greenfield project in - what a happy coincidence
 	Your task is to show them that your TDD-fu and your new-age programming language can cope with good ole’ COBOL!
 
