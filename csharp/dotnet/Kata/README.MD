@@ -13,3 +13,6 @@
 	manhattanDistance( Point(1, 1), Point(1, 1) ) should returns 0
 	manhattanDistance( Point(5, 4), Point(3, 2) ) should returns 4
 	manhattanDistance( Point(1, 1), Point(0, 3) ) should returns 3
+
+# Test
+	NUnit
