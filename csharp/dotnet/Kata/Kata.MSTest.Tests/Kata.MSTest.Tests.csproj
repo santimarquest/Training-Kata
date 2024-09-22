@@ -60,12 +60,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Kata\Kata.csproj">
-      <Project>{E65F031B-1783-4D27-9D85-0C8509D1AB41}</Project>
-      <Name>Kata</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Choose>
