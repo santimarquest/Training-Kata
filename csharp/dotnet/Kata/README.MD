@@ -1,4 +1,4 @@
-# Manhattan Distance kata
+# Manhattan Distance
 Manhattan distance is the distance between two points in a grid (like the grid-like street geography of the New York borough of Manhattan) calculated by only taking a vertical and/or horizontal path.
 
 Write a function int manhattanDistance(Point, Point) that returns the Manhattan Distance between the two points.
